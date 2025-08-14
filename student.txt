@@ -1,0 +1,5 @@
+name: abhiram
+age: 20
+suc: 2358250131
+college: aditya school of computer sciences
+ht.no: 230377401091
